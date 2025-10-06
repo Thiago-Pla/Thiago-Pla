@@ -31,7 +31,7 @@
 
 ### 📫 Contacto
 💼 [LinkedIn](https://www.linkedin.com/in/thiago-pla)  
-🐙 [GitHub](https://github.com/thiagopla)
+🐙 [GitHub](https://github.com/Thiago-Pla)
 
 ---
 
