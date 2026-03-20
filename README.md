@@ -17,7 +17,7 @@
 
 
 ### 🧠 Sobre mí
-- 🧩 Me gusta resolver problemas :) 
+- 🧩 Me gusta aprender y resolver problemas :) 
 - 🧠 Explorando proyectos
 
 ---
