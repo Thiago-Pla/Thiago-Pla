@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Thiago Pla!
+# ¡Hola, soy Thiago Pla!
 
 💻 Estudiante de **Ingeniería Informática en FIUBA**   
 🚀 En mis repositorios vas a encontrar proyectos académicos, experimentos y utilidades personales.
@@ -24,8 +24,6 @@
 
 ### 📫 Contacto
 💼 [LinkedIn](https://www.linkedin.com/in/thiago-pla)  
-🐙 [GitHub](https://github.com/Thiago-Pla)
-
 ---
 
 
